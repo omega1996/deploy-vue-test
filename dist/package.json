@@ -1,0 +1,10 @@
+{
+  "name": "deploy-vue-test",
+  "version": "1.0.0",
+  "description": "Heroku App",
+  "author": "Ivan",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
